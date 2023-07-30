@@ -4,5 +4,11 @@
 		"name": "Github",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "New Folder",
+			"item": [],
+			"id": "5950bf90-7856-4ca0-97bb-9496e2553144"
+		}
+	]
 }
