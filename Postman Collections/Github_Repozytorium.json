@@ -4,18 +4,5 @@
 		"name": "Github",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
-	"item": [
-		{
-			"name": "New Request",
-			"id": "f83e0421-22ee-4a08-9e20-ad266a25cf64",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		}
-	]
+	"item": []
 }
