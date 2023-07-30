@@ -18,7 +18,8 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": "https://developer.allegro.pl/"
 			},
 			"response": []
 		}
